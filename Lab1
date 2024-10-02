@@ -7,11 +7,11 @@ Notepad++/NotePad2
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Most Danyang–Kunshan</title>
+    <title></title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Danyang–Kunshan Grand Bridge</h1>
+    <h1></h1>
     <img src="images.jpg" alt="Danyang–Kunshan Grand Bridge">
     
 </body>
@@ -21,7 +21,7 @@ Notepad++/NotePad2
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Most Tianjin Grand Bridge</title>
+    <title></title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -33,7 +33,7 @@ Notepad++/NotePad2
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Most Bang Na Expressway</title>
+    <title></title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -45,7 +45,7 @@ Notepad++/NotePad2
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Most Manchac</title>
+    <title></title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -104,7 +104,7 @@ footer{
 <head>
     <meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
     <meta http-equiv="Content-Language" content="pl" />
-    <meta name="Author" content="Szymon Kowalczyk" />
+    <meta name="Author" content="" />
     <link rel="stylesheet" href="style.css">
 
     <title>Najwieksze mosty swiata</title>
@@ -115,17 +115,17 @@ footer{
     
     <nav>
         <ul>
-        <li><a href="1.html"> Most Danyang–Kunshan</a></li>
-        <li><a href="2.html"> Most Tianjin Grand Bridge</a></li>
-        <li><a href="3.html"> Most Weinan Weihe Grand Bridge</a></li>
-        <li><a href="4.html"> Most Bang Na Expressway</a></li>
-        <li><a href="5.html"> Most Manchac</a></li>
+        <li><a href="1.html"> </a></li>
+        <li><a href="2.html"> </a></li>
+        <li><a href="3.html"> /a></li>
+        <li><a href="4.html"> </a></li>
+        <li><a href="5.html"> </a></li>
         </ul>
     
     </header>
     <main>
     <div class ="img-cont">
-        <img src="images.jpg" alt="Danyang–Kunshan Grand Bridge">
+        <img src="images.jpg" alt="">
     </div>
    
     </main>
