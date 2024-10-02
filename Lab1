@@ -173,3 +173,51 @@ footer{
     
 </body>
 </html>
+
+
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="Content-Language" content="pl" />
+    <meta name="Author" content="Damian Biegajło" />
+    <link rel="stylesheet" href="style.css">
+
+    <title></title>
+</head>
+<body>
+    <h1>Filmy Oscarowe</h1>
+    <header>
+    
+    <nav>
+        <ul>
+        <li><a href="1.html"> Lot nad kukułczym gniazdem</a></li>
+        <li><a href="2.html"> Milczenie owiec </a></li>
+        <li><a href="3.html"> Forrest Gump</a></li>
+        <li><a href="4.html"> Gladiator</a></li>
+        <li><a href="5.html"> Oppenheimer</a></li>
+        </ul>
+
+    </header>
+    <main>
+    <div class ="img-cont">
+        <img src="oscar.webp" alt="oscar" width="600" height="800 ">
+    </div>
+   
+    </main>
+    </nav>
+    <footer>
+        cc
+    </footer>
+    
+
+    
+    
+</body>
+</html>
+
+<!DOCTYPE html>
+<body>
+    <h1>Lot nad kukułczym gnziazdem</h1>
+    <img src="212501.1.jpg" alt="Film">
+    
+</body>
+</html>
